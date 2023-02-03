@@ -1,0 +1,2 @@
+IM NEWBOY > NEW.md
+echo IM NEWBOY
